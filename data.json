@@ -1,0 +1,52 @@
+{
+  "profile":{
+  "image":"images/im2.jpg",
+  "name":"sireesha",
+"design":"student",
+"email_id":"Mitta.sire@gmail.com",
+"phone_no":"12345676"  },
+"career":{
+  "info":"to work hard"
+},
+"education":
+  [
+    {
+  "s_no":"1",
+  "institute":"mits",
+  "qualification":"Btech",
+  "percentage":"92",
+  "year_of_pasing":"2021"
+},
+{
+"s_no":"2",
+"institute":"abhyas",
+"qualification":"inter",
+"percentage":"98",
+"year_of_pasing":"2017"
+},
+{
+"s_no":"3",
+"institute":"lahs",
+"qualification":"ssc",
+"percentage":"95",
+"year_of_pasing":"2015"
+}
+],
+"skills":
+[
+  {
+  "name":"webtechnologies",
+  "info":["html","css","js"]
+},
+  {
+    "name":"database",
+    "info":["jdbc","sql"]
+  }
+]
+
+
+
+
+
+
+}

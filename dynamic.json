@@ -1,0 +1,48 @@
+{
+  "profile":{
+    "image":"images.jpg",
+    "name":"sunayana",
+    "designation":"btech student",
+    "phone_no":"9398361439",
+    "email":"sunnu11@gmail.com",
+    "place":"pulivendula"
+  },
+  "career":{
+    "info":"happy to take challenges and come out with success"
+  },
+  "education_details":
+  [
+    {
+    "s_no":"1",
+    "study":"10th class",
+    "percentage":"97",
+    "institute":"keshava Reddy",
+    "year_of_passing":"2015"
+    },
+    {
+      "s.no":"2",
+      "study":"upper primary",
+      "percentage":"95",
+      "institute":"narayana junior college",
+      "year_of_passing":"2017"
+    },
+    {
+      "s.no":"3",
+      "study":"heigher education",
+      "percentage":"93",
+      "institute":"MITS",
+      "year_of_passing":"2021"
+    }
+  ],
+  "skills":
+  [
+    {
+    "name":"languages",
+    "info":["python,c,c++,java"]
+    },
+    {
+      "name":"database",
+      "info":["sql"]
+    }
+  ]
+}

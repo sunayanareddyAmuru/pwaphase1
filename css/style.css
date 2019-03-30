@@ -1,0 +1,48 @@
+img{
+  width:60%;
+  height:60%;
+}
+body{
+  background: #2980B9  ;
+}
+.parent{
+  display:flex;
+  background:#808000;
+  justify-content:center;
+  margin:5%;
+  padding:3%;
+  width:85%;
+  border:3px solid #7B241C  ;
+  border-radius:3%;
+}
+.child{
+  background:#FF00FF ;
+  width:30%;
+  padding:3%;
+  margin:2%;
+  text-align:center;
+  border:3px solid #7B241C  ;
+  border-radius:3%;
+}
+h1{
+  text-align:center;
+  font-style:oblique;
+  colour:#DC7633;
+}
+@media screen and (max-width:640px) {
+  .parent{
+    flex-wrap:wrap;
+    backgronud:
+  }
+  .child{
+    width:100%;
+  }
+}
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .parent{
+    flex-wrap:wrap;
+  }
+  .child{
+    width:30%;
+  }
+}
